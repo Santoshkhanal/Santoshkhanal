@@ -2,8 +2,8 @@
 
 🚀 **Java / Full-Stack Software Developer | Spring Boot | Microservices | Cloud & DevOps**
 📍 Toronto, ON, Canada
-📧 [santosh4khanal@gmail.com](mailto:santosh4khanal@gmail.com) | 📞 647-708-9695
-🔗 [LinkedIn](https://www.linkedin.com/in/santoshkhanal6y)
+📧 [santosh4khanal@gmail.com](mailto:santosh4khanal@gmail.com) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/khanalsantosh/)
 
 ---
 
@@ -109,7 +109,7 @@ I have a strong foundation in **object-oriented programming**, **data structures
 
 I’m actively seeking **Java / Software Developer opportunities in Canada** where I can contribute to building scalable and high-quality systems.
 
-📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/santoshkhanal6y) or explore my repositories below.
+📩 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/khanalsantosh/) or explore my repositories below.
 
 ---
 
